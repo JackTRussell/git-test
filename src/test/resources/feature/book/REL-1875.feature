@@ -1,20 +1,20 @@
-@ST_31774
+@ST_40948
 Feature: Just feature for testing
 I want to see new description with new changes
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
 
-@SC_123532
+@SC_155179
 Scenario: 
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
 
-@SC_143966
+@SC_155180
 Scenario: 
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
 
-@SC_143967
+@SC_155181
 Scenario: test update from jira all stories
 Given one
 And two

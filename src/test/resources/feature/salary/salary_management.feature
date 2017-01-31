@@ -11,7 +11,7 @@ Examples:
 |fethry|||
 
 
-@SC_172159 @High @Test_1
+@SC_172159 @Test_1 @High
 Scenario Outline: Modify an employee's salary
 
 Examples: 

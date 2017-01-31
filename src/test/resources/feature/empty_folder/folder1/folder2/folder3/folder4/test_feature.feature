@@ -1,7 +1,7 @@
-@ST_41083
+@ST_32968
 Feature: 
 
-@SC_155685
+@SC_172145
 Scenario: 
 Given I created feature in a few folders in Relime
 And I save it in Direct mode

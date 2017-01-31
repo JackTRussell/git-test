@@ -1,7 +1,7 @@
-@ST_31770
+@ST_32969
 Feature: check issue 2584
 
-@SC_123432
+@SC_172146
 Scenario: scenario
 Given there is scenario for editing
 And there should be displayed all changes for user1
